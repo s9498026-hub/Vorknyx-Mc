@@ -1,0 +1,1 @@
+import{i as e}from"./click-sound-BOnFSD7j.js";import{t}from"./ShopPage-Bk0nazJh.js";import{o as n}from"./index-TSh0LdzG.js";var r=e();function i(){return(0,r.jsx)(t,{eyebrow:`Rank Packages`,title:`RANKS`,subtitle:`Ten tiers of power. Every package unlocks exclusive /kit access, perks and server privileges.`,products:n})}export{i as component};

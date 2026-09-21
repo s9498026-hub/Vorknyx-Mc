@@ -1,0 +1,1 @@
+import{i as e}from"./click-sound-BOnFSD7j.js";import{t}from"./ShopPage-Bk0nazJh.js";import{r as n}from"./index-TSh0LdzG.js";var r=e();function i(){return(0,r.jsx)(t,{eyebrow:`Loot Crates`,title:`CRATE KEYS`,subtitle:`Seven crate tiers, from Common rolls to the server's ultimate VORK key.`,products:n})}export{i as component};

@@ -1,0 +1,1 @@
+import{i as e}from"./click-sound-BOnFSD7j.js";import{t}from"./ShopPage-Bk0nazJh.js";import{n,t as r}from"./index-TSh0LdzG.js";var i=e();function a(){return(0,i.jsx)(t,{eyebrow:`In-Game Currency`,title:`COIN SHOP`,subtitle:`Spend coins in-game on Custom Chat Colors, Exclusive Pets, Particle Effects and Cosmetic Unlocks.`,products:r,footnote:n})}export{a as component};
